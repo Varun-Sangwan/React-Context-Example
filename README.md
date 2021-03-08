@@ -2,7 +2,7 @@
 
 ## What to expect if you choose to run the code
 
-<img src="Screenshots/Initial.png" width='300px'>
+<img src="Screenshots/Initial" width='300px'>
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
