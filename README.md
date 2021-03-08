@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-## What to expect if you choose to run the code
+### Display
 
 <img src="Screenshots/Initial.png" width='300px'>
 
